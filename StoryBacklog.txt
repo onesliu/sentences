@@ -1,0 +1,11 @@
+Story backlog
+
+1. I need a convenient sentences input interface, may be it could capture
+   screen or get them from clipboard or import from file.
+2. I need an interface to review sentences continously. chinese being showed
+   first and then english later. if you don't remember, it'll be revealed more times.
+3. I need an alert mechanism about many of sentences being in show time.
+4. I need sentences group feature, because i cann't recite so much more at one time.
+5. I need remember a sentence first, then redo after 20 minutes,1 hour,4 hours,etc.
+   if i don't remember it. the time interval will not be increased. The sentences
+   would be shown under many other criteria.
