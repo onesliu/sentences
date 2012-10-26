@@ -9,3 +9,5 @@ Story backlog
 5. I need remember a sentence first, then redo after 20 minutes,1 hour,4 hours,etc.
    if i don't remember it. the time interval will not be increased. The sentences
    would be shown under many other criteria.
+6. I'd like to use this program from different places. so it's must be an internet
+   application. may be has a RESTful backgroud or an opened database.
